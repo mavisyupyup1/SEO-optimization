@@ -5,9 +5,9 @@ This is a code refactor challenge for Columbia Engineer Coding Boot Camp Sept 20
 
 In the process of refactoring, I have: 
 
-1. Added semantic HTML elements: <header>,<footer>,<nav>,<section>.
-2. Restructured the HTML elements so that they follow the following order: <head>,<nav>,<body>,<header>,<section>,<footer>.
-3. Added alt attribute to <img> and explicit "" alt to icons.
+1. Added semantic HTML elements: header,footer,nav,section.
+2. Restructured the HTML elements so that they follow the following order: head,nav,body,header,sections,and footer.
+3. Added alt attribute to images and explicit "" alt to icons.
 4. Made sure headings are in sequential order.
 5. Modified project title and meta name and content to reflect the website's name and description.
 6. Consolidate the classes and ids with in the contents and benefits and updated CSS to reflect this. The consolidation reduced 2/3 of the CSS styling in these two sections.
