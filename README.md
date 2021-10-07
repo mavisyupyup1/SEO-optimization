@@ -14,6 +14,7 @@ In the process of refactoring, I have:
 7. Reduced the size of images and icons by 89% to improve loading time.
 
 ## Installation
+Website: https://mavisyupyup1.github.io/SEO-optimization/
 Download the starter code here. (https://github.com/coding-boot-camp/urban-octo-telegram)
 
 
