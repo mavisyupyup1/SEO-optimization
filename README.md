@@ -9,13 +9,18 @@ In the process of refactoring, I have:
 2. Restructured the HTML elements so that they follow the following order: head,nav,body,header,sections,and footer.
 3. Added alt attribute to images and explicit "" alt to icons.
 4. Made sure headings are in sequential order.
-5. Modified project title and meta name and content to reflect the website's name and description.
+5. Modified project title and meta name and content to reflect the website's name and description. Updated meta viewport to increase SEO
 6. Consolidate the classes and ids with in the contents and benefits and updated CSS to reflect this. The consolidation reduced 2/3 of the CSS styling in these two sections.
 7. Reduced the size of images and icons by 89% to improve loading time.
 
-## Installation
-Website: https://mavisyupyup1.github.io/SEO-optimization/
-Download the starter code here. (https://github.com/coding-boot-camp/urban-octo-telegram)
+## Built With
+* HTML
+* CSS
 
+## Website
+Website: https://mavisyupyup1.github.io/SEO-optimization/
+
+## Contribution
+Download the starter code here. (https://github.com/coding-boot-camp/urban-octo-telegram)
 
 
